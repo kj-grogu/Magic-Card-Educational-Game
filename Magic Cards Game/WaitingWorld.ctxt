@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=WaitingWorld
+comment1.params=
+comment1.target=WaitingWorld()
+comment2.params=
+comment2.target=WaitingWorld\ getInstance()
+comment3.params=
+comment3.target=void\ showStatus()
+comment4.params=
+comment4.target=boolean\ isPlayerPresent()
+comment5.params=
+comment5.target=void\ act()
+numComments=6

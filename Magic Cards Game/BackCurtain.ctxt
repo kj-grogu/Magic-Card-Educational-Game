@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BackCurtain
+comment0.text=\r\n\ Class\ BackCurtain\ will\ control\ the\ back\ curtain,\ which\ moves\ up\ or\ down\r\n\ if\ the\ corresponding\ button\ hitted.\r\n\ \r\n\ @author\ (Chen\ Shi)\ \r\n\ @version\ 1.0\r\n
+comment1.params=grid
+comment1.target=BackCurtain(Grid)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ animationDown()
+comment4.params=
+comment4.target=void\ animationUp()
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=TheoryWorld
+comment1.params=
+comment1.target=TheoryWorld()
+comment2.params=w
+comment2.target=TheoryWorld(greenfoot.World)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=TheoryWorld\ getInstance()
+numComments=5

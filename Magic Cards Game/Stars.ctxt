@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Stars
+comment1.params=
+comment1.target=Stars()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ starsMove()
+comment4.params=x\ y
+comment4.target=void\ starMove(int,\ int)
+comment5.params=c
+comment5.target=void\ addStar(StarComponent)
+numComments=6

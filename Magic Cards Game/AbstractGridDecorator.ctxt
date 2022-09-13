@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AbstractGridDecorator
+comment1.params=g
+comment1.target=AbstractGridDecorator(IGrid)
+comment2.params=
+comment2.target=int\ getSize()
+comment3.params=
+comment3.target=Card[][]\ getCardGrid()
+comment4.params=flag
+comment4.target=void\ setExpanded(boolean)
+comment5.params=
+comment5.target=boolean\ isExpanded()
+numComments=6

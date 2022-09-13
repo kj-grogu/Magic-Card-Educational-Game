@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FrontCurtain
+comment0.text=\r\n\ class\ FrontCurtain\ will\ control\ the\ front\ layer\ of\ curtain,\ which\ does\ \r\n\ not\ move\ during\ the\ animation.\r\n\ \r\n\ @author\ (Chen\ Shi)\ \r\n\ @version\ 0.0\r\n
+comment1.params=
+comment1.target=FrontCurtain()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=PlayWorld
+comment0.text=\r\n\ class\ Senario\ will\ set\ up\ the\ curtains\ and\ show\ an\ animation\ when\r\n\ "Start"\ button\ is\ clicked.\r\n\ \r\n\ @author\ (Chen\ Shi)\ \r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=PlayWorld()
+comment2.params=serverGrid
+comment2.target=void\ setGrid(org.json.JSONObject)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=PlayerWorldButton\ getButton()
+comment5.params=
+comment5.target=BackCurtain\ getBackCurtain()
+comment6.params=
+comment6.target=FrontCurtain\ getFrontCurtain()
+comment7.params=
+comment7.target=Grid\ getGrid()
+comment8.params=
+comment8.target=Magician\ getMagician()
+numComments=9

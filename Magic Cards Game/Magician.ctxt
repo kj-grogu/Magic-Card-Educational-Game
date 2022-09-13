@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Magician
+comment1.params=grid\ backCurtain
+comment1.target=Magician(GridDecorator,\ BackCurtain)
+comment2.params=
+comment2.target=void\ operateGrid()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ fillErrorDetection()
+comment5.params=
+comment5.target=Card\ trick()
+numComments=6

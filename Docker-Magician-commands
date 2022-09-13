@@ -1,0 +1,7 @@
+ sudo docker images
+ sudo docker build -f Dockerfile -t eight .
+ sudo docker run -i -p 8080:8080 eight
+ sudo docker images
+ sudo docker push jayam/eight
+ sudo docker tag 22a82fe8db2a jayam/eight:latest
+ sudo docker push jayam/eight

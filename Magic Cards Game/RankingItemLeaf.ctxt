@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=RankingItemLeaf
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ RankingItemLeaf\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=rank\ player\ score
+comment1.target=RankingItemLeaf(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=c
+comment3.target=void\ addItem(IRankingitem)
+comment4.params=c
+comment4.target=void\ removeItem(IRankingitem)
+comment5.params=x\ y
+comment5.target=void\ display(int,\ int)
+comment6.params=i
+comment6.target=IRankingitem\ getItem(int)
+numComments=7
